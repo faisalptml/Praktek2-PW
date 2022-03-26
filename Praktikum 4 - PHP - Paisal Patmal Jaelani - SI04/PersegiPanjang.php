@@ -3,10 +3,10 @@
             const lebar = 10 ;
             const panjang = 5 ;
 
-            function getKeliling(){
+            function getKeliling() {
                 return 2 * self :: lebar + self :: panjang ;
             }
-            function getLuas(){
+            function getLuas() {
                 return self :: lebar * self :: panjang ;
             }
         }
